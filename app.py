@@ -10,7 +10,7 @@ DB = dict(
     host="student-performance-tracker-minsittmandalay137-f4b9.h.aivencloud.com",
     port=24809,
     user="avnadmin",
-    password="",
+    password="AVNS_P1I1auuEaJWAnyuHu3H",
     database="defaultdb",
 )
 
